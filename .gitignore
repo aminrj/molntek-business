@@ -1,0 +1,5 @@
+# Nested git repos — managed independently, not tracked by this umbrella
+operations/
+presentations/
+artifacts/
+website/
