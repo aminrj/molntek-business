@@ -3,3 +3,6 @@ operations/
 presentations/
 artifacts/
 website/
+
+# macOS
+.DS_Store
